@@ -6,15 +6,14 @@ designer: Gen Ramirez
 permalink: /victus/
 
 sections:
-  typefaceBlurb: This is the part about Victus
-  bio: Here's Gen's bio
+  typefaceBlurb:
+  bio: Gen is a type designer/letter/calligrapher based in Guadalajara, Mexico.
 
-website: yourwebsite
-instagram: yourinstagram
-twitter: yourtwitter
-facebook: yourfacebook
-linkedin: yourlinkedin
-
+website:
+instagram: genramirez
+twitter:
+linkedin:
+facebook:
 
 
 ---

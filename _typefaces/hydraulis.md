@@ -6,14 +6,14 @@ designer: Lauren Hostetter
 permalink: /hydraulis/
 
 sections:
-  typefaceBlurb: This is the part about Hydraulis
-  bio: Here's Lauren's bio
+  typefaceBlurb:
+  bio: Lauren is an illustrator and designer living in Sacramento.
 
-website: yourwebsite
-instagram: yourinstagram
-twitter: yourtwitter
-facebook: yourfacebook
-linkedin: yourlinkedin
+website:
+instagram:
+twitter:
+linkedin:
+facebook:
 
 
 ---

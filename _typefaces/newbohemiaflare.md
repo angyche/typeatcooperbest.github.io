@@ -6,14 +6,11 @@ designer: Damon Styer
 permalink: /newbohemianflare/
 
 sections:
-  typefaceBlurb: This is the part about New Bohemia Flare
-  bio: Here's Damon's bio
+  typefaceBlurb: 
+  bio: Damon is the proprietor of New Bohemia Signs, a sign painting shop in San Francisco.
 
-website: yourwebsite
-instagram: yourinstagram
-twitter: yourtwitter
-facebook: yourfacebook
-linkedin: yourlinkedin
+website: https://www.newbohemiasigns.com/
+instagram: nbsigns
 
 
 ---
