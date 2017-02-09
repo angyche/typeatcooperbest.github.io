@@ -6,14 +6,10 @@ designer: Kim Rhee
 permalink: /florence/
 
 sections:
-  typefaceBlurb: This is the part about Florence
-  bio: Here's Kim's bio
+  typefaceBlurb: 
+  bio: Kim is a freelance designer living in San Francisco.
 
-website: yourwebsite
-instagram: yourinstagram
-twitter: yourtwitter
-facebook: yourfacebook
-linkedin: yourlinkedin
+
 
 
 ---
